@@ -9,14 +9,14 @@ Let's not do the talking but the work :
 
 ### Python
 For beginners, I will suggest below reference material which can help them learning python quickly
-[] - * [BOOK - Python for Informatics](www.pythonlearn.com/book_007.pdf)
-[] - * [Course - Programming for Everybody by University of Michigan] (https://www.coursera.org/learn/python)
+- [][BOOK - Python for Informatics](www.pythonlearn.com/book_007.pdf)
+- [][Course - Programming for Everybody by University of Michigan] (https://www.coursera.org/learn/python)
 
 These 2 source are more than enough to learn basics of python.
 
-[] - [10 minutes to pands] (http://pandas.pydata.org/pandas-docs/stable/10min.html#min)
-[] - [pandas turorials] (http://pandas.pydata.org/pandas-docs/stable/tutorials.html)
-[] - [Some tutorials on my Site] (http://www.datagenx.net/search/label/Pandas)
+- [][10 minutes to pands] (http://pandas.pydata.org/pandas-docs/stable/10min.html#min)
+- [][pandas turorials] (http://pandas.pydata.org/pandas-docs/stable/tutorials.html)
+- [][Some tutorials on my Site] (http://www.datagenx.net/search/label/Pandas)
 
 
 
