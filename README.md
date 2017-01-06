@@ -3,7 +3,7 @@
   
   <p align="center">
   <a href="https://github.com/atulsingh0/My-Learning-Path-for-Machine-Learning">
-    <img alt="My-Learning-Path-for-Machine-Learning with Python" src="https://img.shields.io/badge/My--Learning--Path--for--Machine--Learning--blue.svg">
+    <img alt="My-Learning-Path-for-Machine-Learning with Python" src="https://img.shields.io/badge/Learning%20Path-Machine%20Learning-blue.svg">
   </a>
   <a href="https://github.com/atulsingh0/My-Learning-Path-for-Machine-Learning/stargazers">
     <img alt="GitHub stars" src="https://img.shields.io/github/stars/atulsingh0/My-Learning-Path-for-Machine-Learning.svg">
