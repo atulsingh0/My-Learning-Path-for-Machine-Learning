@@ -44,7 +44,7 @@ These 2 source are more than enough to learn basics of python.
 
 #### Python Scikit-Learn (Machine Learning)
 - [ ] [scikit-learn Tutorials] (http://scikit-learn.org/stable/tutorial/)
-- [ ] [PyCon 2014 Scikit-learn Tutorial] (https://github.com/ogrisel/sklearn_pycon2014)
+- [ ] [PyCon 2014 Scikit-learn Tutorial] (https://github.com/atulsingh0/sklearn_pycon2014)
 - [ ] [PyCon 2015 Scikit-learn Tutorial] (http://nbviewer.jupyter.org/github/jakevdp/sklearn_pycon2015/blob/master/notebooks/Index.ipynb) 
 
 
