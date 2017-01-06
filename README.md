@@ -2,6 +2,9 @@
 
   
   <p align="center">
+    <a href="http://www.datagenx.net">
+    <img alt="www.datagenx.net" src="https://img.shields.io/badge/datagenx-blue.svg">
+  </a>
   <a href="https://github.com/atulsingh0/My-Learning-Path-for-Machine-Learning">
     <img alt="My-Learning-Path-for-Machine-Learning with Python" src="https://img.shields.io/badge/Learning%20Path-Machine%20Learning-blue.svg">
   </a>
