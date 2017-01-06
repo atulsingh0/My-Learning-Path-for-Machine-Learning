@@ -1,7 +1,8 @@
-Machine Learning
+### Machine Learning
 [Elements of Statistical Learning. Hastie, Tibshirani, Friedman](http://www-stat.stanford.edu/~tibs/ElemStatLearn/printings/ESLII_print10.pdf)
 [All of Statistics. Larry Wasserman](http://www.ucl.ac.uk/~rmjbale/Stat/wasserman2.pdf)
 [Machine Learning and Bayesian Reasoning. David Barber](http://web4.cs.ucl.ac.uk/staff/D.Barber/textbook/090310.pdf)
+
 Gaussian Processes for Machine Learning. Rasmussen and Williams
 Information Theory, Inference, and Learning Algorithms. David MacKay
 Introduction to Machine Learning. Smola and Vishwanathan
