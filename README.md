@@ -18,3 +18,4 @@ These 2 source are more than enough to learn basics of python.
 [pandas turorials] (http://pandas.pydata.org/pandas-docs/stable/tutorials.html)
 [Some tutorials on my Site] (http://www.datagenx.net/search/label/Pandas)
 
+
