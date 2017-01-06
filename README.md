@@ -14,4 +14,7 @@ For beginners, I will suggest below reference material which can help them learn
 
 These 2 source are more than enough to learn basics of python.
 
+[10 minutes to pands] (http://pandas.pydata.org/pandas-docs/stable/10min.html#min)
+[pandas turorials] (http://pandas.pydata.org/pandas-docs/stable/tutorials.html)
+[Some tutorials on my Site] (http://www.datagenx.net/search/label/Pandas)
 
