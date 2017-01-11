@@ -1,4 +1,4 @@
-# My-Learning-Path-for-Machine-Learning with Python
+# My Learning Path for Machine Learning with Python
 
   
   <p align="center">
@@ -62,18 +62,19 @@ These 2 source are more than enough to learn basics of python.
 *   [A Probabilistic Theory of Pattern Recognition. Devroye, Gyorfi, Lugosi.] (http://www.szit.bme.hu/~gyorfi/pbook.pdf)   
 *   [Introduction to Information Retrieval. Manning, Rhagavan, Shutze] (http://nlp.stanford.edu/IR-book/pdf/irbookprint.pdf)   
 *   [Forecasting: principles and practice. Hyndman, Athanasopoulos. (Online Book) ] (http://otexts.com/fpp/)   
-####   [Probability / Stats] 
+*   [Introduction to Information Retrieval (Manning et al. 2008)](http://nlp.stanford.edu/IR-book/)
+####   Probability / Stats   
 *   [Introduction to statistical thought. Lavine ] (https://www.math.umass.edu/~lavine/Book/book.pdf)   
 *   [Basic Probability Theory. Robert Ash] (http://www.math.uiuc.edu/~r-ash/BPT/BPT.pdf)   
 *   [Introduction to probability. Grinstead and Snell] (http://math.dartmouth.edu/~prob/prob/prob.pdf)   
 *   [Principle of Uncertainty. Kadane] (http://uncertainty.stat.cmu.edu/wp-content/uploads/2011/05/principles-of-uncertainty.pdf)   
-####   [Linear Algebra / Optimization] 
+####   Linear Algebra / Optimization  
 *   [Linear Algebra, Theory, and Applications. Kuttler] (https://math.byu.edu/~klkuttle/Linearalgebra.pdf)   
 *   [Linear Algebra Done Wrong. Treil] (http://www.math.brown.edu/~treil/papers/LADW/LADW.pdf)   
 *   [Applied Numerical Computing. Vandenberghe] (http://www.seas.ucla.edu/~vandenbe/103/reader.pdf)   
 *   [Applied Numerical Linear Algebra. James Demmel] (http://uqu.edu.sa/files2/tiny_mce/plugins/filemanager/files/4281667/hamdy/hamdy1/cgfvnv/hamdy2/h1/h2/h3/h4/h5/h6/Applied Numerical Linear .pdf)   
 *   [Convex Optimization. Boyd and Vandenberghe] (http://www.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf)   
-####   [Genetic Algorithms] 
+####   Genetic Algorithms  
 *   [A Field Guide to Genetic Programming. Poli, Langdon, McPhee.] (http://dces.essex.ac.uk/staff/rpoli/gp-field-guide/A_Field_Guide_to_Genetic_Programming.pdf)   
 *   [Evolved To Win. Sipper] (http://www.lulu.com/ie/en/shop/moshe-sipper/evolved-to-win/ebook/product-18719826.html)   
 *   [Essentials of Metaheuristics. Luke ] (http://cs.gmu.edu/~sean/book/metaheuristics/Essentials.pdf)   
