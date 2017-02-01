@@ -48,6 +48,11 @@ These 2 source are more than enough to learn basics of python.
 - [ ] [PyCon 2015 Scikit-learn Tutorial] (http://nbviewer.jupyter.org/github/jakevdp/sklearn_pycon2015/blob/master/notebooks/Index.ipynb) 
 
 
+#### Some E-Learning Courses on ML
+- [ ] [Build Intelligent Applications] (https://www.coursera.org/specializations/machine-learning)
+- [ ] [Gain new insights into your data] (https://www.coursera.org/specializations/data-science-python)
+- [ ] [Analyze Text, Discover Patterns, Visualize Data] (https://www.coursera.org/specializations/data-mining)
+
 
 
 
