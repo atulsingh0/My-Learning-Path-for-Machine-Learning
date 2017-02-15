@@ -57,7 +57,7 @@ These 2 source are more than enough to learn basics of python.
 
 
 ### Machine Learning Books
-* [Python Data Science Handbook] (https://github.com/jakevdp/PythonDataScienceHandbook)
+*   [Python Data Science Handbook] (https://github.com/jakevdp/PythonDataScienceHandbook)
 *   [Elements of Statistical Learning. Hastie, Tibshirani, Friedman  ] (http://www-stat.stanford.edu/~tibs/ElemStatLearn/printings/ESLII_print10.pdf)   
 *   [All of Statistics. Larry Wasserman ] (http://www.ucl.ac.uk/~rmjbale/Stat/wasserman2.pdf)   
 *   [Machine Learning and Bayesian Reasoning. David Barber  ] (http://web4.cs.ucl.ac.uk/staff/D.Barber/textbook/090310.pdf)   
@@ -83,6 +83,13 @@ These 2 source are more than enough to learn basics of python.
 *   [A Field Guide to Genetic Programming. Poli, Langdon, McPhee.] (http://dces.essex.ac.uk/staff/rpoli/gp-field-guide/A_Field_Guide_to_Genetic_Programming.pdf)   
 *   [Evolved To Win. Sipper] (http://www.lulu.com/ie/en/shop/moshe-sipper/evolved-to-win/ebook/product-18719826.html)   
 *   [Essentials of Metaheuristics. Luke ] (http://cs.gmu.edu/~sean/book/metaheuristics/Essentials.pdf)   
+####   Some Other Books to follow
+*   Mastering Machine Learning with Scikit-Learning
+*   Building Machine Learning System with Python
+*   Learning scikit-learn: Machine Learning in Python
+*   scikit-learn Cookbook
+
+
 
 ### Machine Learning Videos and Lectures
 - [ ] [Machine Learning by Tom Mitchell and Maria-Florina Balcan] (http://www.cs.cmu.edu/~ninamf/courses/601sp15/lectures.shtml)
@@ -90,6 +97,7 @@ These 2 source are more than enough to learn basics of python.
 
 ### Some Other Learning Paths to follow
 * [7 Steps to Mastering Machine Learning With Python](http://www.kdnuggets.com/2015/11/seven-steps-machine-learning-python.html)
+
 
 
 
